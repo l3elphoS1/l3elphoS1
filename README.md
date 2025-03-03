@@ -45,7 +45,7 @@
 |---------|------------|------------|  
 | **🚀 GCP Data Pipeline** | ETL pipeline extracting data from APIs & CSVs, processing with Pandas/Spark, storing in BigQuery | Python, Airflow, GCP, BigQuery |  
 | **📊 Automated Dashboard** | Created interactive Looker Studio dashboards from BigQuery datasets | SQL, Looker Studio, Power BI |  
-| **🌍 Full Stack Web App** | Building a web application with Node.js & Express backend | Node.js, Express, JavaScript, HTML/CSS |  
+| **🌍 Web App** | Building a web application with HTML, CSS and JavaScript | , JavaScript, HTML/CSS |  
 
 ---
 
