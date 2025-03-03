@@ -57,7 +57,7 @@
 ---
 
 ### ⚡ **Fun Fact**  
-💬 I love discussing **data engineering, AI, web development, and badminton!** 🏸  
+⚡ Fun fact: I enjoy playing badminton and drawing 'Yume Kawaii' illustrations in my free time! 🎨🏸  
 
 <!--
 **l3elphoS1/l3elphoS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
