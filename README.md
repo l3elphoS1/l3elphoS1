@@ -81,6 +81,3 @@
 
 ---
 
-### ⚡ Fun Fact
-
-I make wigs, draw Yume Kawaii illustrations 🎨, and play badminton 🏸 — then come back to write Playwright tests and debug Jira API integrations. Balance is everything! ☁️✨
